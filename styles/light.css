@@ -97,3 +97,11 @@
     all: unset;
     cursor: pointer;
   }
+  #footer{
+    width: 100%;
+    padding: 10px 30px;
+    box-sizing: border-box;
+    font-size: 1.8rem;
+    text-align: center;
+
+  }
